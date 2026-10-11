@@ -60,3 +60,17 @@ This is a synthetic-data portfolio project. Capacity utilization compares planne
 ## Author
 
 Data Analytics Portfolio Project — focused on manufacturing operations, production planning, ERP data, and process improvement.
+
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](images/1-executive-overview.png)
+
+### 2. Production & Capacity
+![Production & Capacity](images/2-production-capacity.png)
+
+### 3. Quality & Delivery
+![Quality & Delivery](images/3-quality-delivery.png)
+
+### 4. Insights & Recommendations
+![Insights & Recommendations](images/4-insights-recommendations.png)
