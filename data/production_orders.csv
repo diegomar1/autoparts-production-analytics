@@ -1,3 +1,4 @@
+order_id,order_date,planned_date,production_date,product_id,line_id,planned_qty,produced_qty,defective_qty,setup_hours,production_hours,status,customer,priority,shift
 ORD000001,2026-09-26,2026-09-28,2026-09-28,PRD005,L004,334,313,5,2.38,5.67,Completed,Drive Systems,Low,Shift 3
 ORD000002,2026-04-26,2026-05-06,,PRD002,L001,921,0,0,2.26,12.23,Planned,AutoTech Motors,High,Shift 2
 ORD000003,2025-03-15,2025-03-25,2025-03-29,PRD008,L002,823,778,6,0.70,10.23,Delayed,Global Auto,Medium,Shift 2

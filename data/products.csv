@@ -1,3 +1,4 @@
+product_id,product_name,category,unit_cost,standard_price
 PRD001,Brake Disc,Braking System,48.50,89.00
 PRD002,Brake Drum,Braking System,62.00,115.00
 PRD003,Steering Knuckle,Steering System,85.00,158.00

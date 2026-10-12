@@ -1,3 +1,4 @@
+line_id,plant,line_name,product_category,monthly_capacity
 L001,Plant A,Braking Line,Braking System,18000
 L002,Plant A,Suspension Line,Suspension,15000
 L003,Plant B,Steering Line,Steering System,12000
